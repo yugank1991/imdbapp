@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import SkeletonComp from "./Skeleton";
-import { ImdbContext } from "../../pages/ImdbContext";
+import { ImdbContext } from "../../context/ImdbContext";
 
 const TabsComp = () => {
   const [activeTab, setActiveTab] = useState("Top Rated (100)");

@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { ImdbContext } from "../../pages/ImdbContext";
+import { ImdbContext } from "../../context/ImdbContext";
 
 const SliderSkeleton = () => (
   <div

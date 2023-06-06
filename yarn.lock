@@ -795,10 +795,10 @@
   dependencies:
     "is-number" "^7.0.0"
 
-"typescript@4.0":
-  "integrity" "sha512-oz1765PN+imfz1MlZzSZPtC/tqcwsCyIYA8L47EkRnRW97ztRk83SzMiWLrnChC0vqoYxSU1fcFUDA5gV/ZiPg=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.0.8.tgz"
-  "version" "4.0.8"
+"typescript@4.3.2":
+  "integrity" "sha512-zZ4hShnmnoVnAHpVHWpTcxdv7dWP60S2FsydQLV8V5PbS3FifjWFFRiHSWpDJahly88PRyV5teTSLoq4eG7mKw=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.3.2.tgz"
+  "version" "4.3.2"
 
 "unload@2.2.0":
   "integrity" "sha512-B60uB5TNBLtN6/LsgAf3udH9saB5p7gqJwcFfbOEZ8BcBHnGwCf6G/TGiEqkRAxX7zAFIUtzdrXQSdL3Q/wqNA=="

@@ -1,10 +1,10 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Layout from "../components/Layout";
 import SliderComp from "../components/dashboard/Overlay";
 import TVSeries from "../components/dashboard/TvSeries";
 import NowPlaying from "../components/dashboard/BoxOffice";
 import Header from "../components/Header";
-import { ImdbContext } from "./ImdbContext";
+import { ImdbContext } from "../context/ImdbContext";
 import { Spinner } from "../components/dashboard/Spinner";
 
 const IndexPage = () => {
